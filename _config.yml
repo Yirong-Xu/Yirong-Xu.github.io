@@ -13,7 +13,7 @@ name                     : &name "Yirong Xu"
 description              : &description "first year PhD student of Data and Computational Sciences"
 url                      : https://yirong-xu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://yirong-xu.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
