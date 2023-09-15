@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "St. Louis"
-title                    : "Yirong Xu's website"
+title                    : "Yirong Xu's Website"
 title_separator          : "-"
 name                     : &name "Yirong Xu"
 description              : &description "first year PhD student of Data and Computational Sciences"
