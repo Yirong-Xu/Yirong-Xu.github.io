@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Beijing Forestry University, 2020
-* M.S. in Jekyll, University of Chinese Academy of Sciences, 2023
+* M.S. in University of Chinese Academy of Sciences, 2023
 * Ph.D in Washington University in St. Louis, 2028 (expected)
 
 
