@@ -10,7 +10,7 @@ locale                   : "St. Louis"
 title                    : "Yirong Xu's Website"
 title_separator          : "-"
 name                     : &name "Yirong Xu"
-description              : &description "first year PhD student of Data and Computational Sciences"
+description              : &description "first year PhD student of Computational and data Sciences"
 url                      : https://yirong-xu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://yirong-xu.github.io/"
