@@ -10,6 +10,6 @@ redirect_from:
 
 
 
-I'm Yirong Xu, a first year PhD student(Computational & Data Sciences) from Washington University in St. Louis, My research interest includes computational biology and water treatment technology. My email is x.yirong@wustl.edu.
+I'm Yirong Xu, a PhD student in Computational & Data Sciences at Washington University in St. Louis. My research interests include computational biology and water treatment technology. My email address is x.yirong@wustl.edu
 
-[CV](../Xu_Yirong_CV.pdf).
+[CV](../XuYirong-CV_2026.pdf).
