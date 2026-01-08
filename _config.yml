@@ -10,7 +10,7 @@ locale                   : "St. Louis"
 title                    : "Yirong Xu's Website"
 title_separator          : "-"
 name                     : &name "Yirong Xu"
-description              : &description "first year PhD student of Computational and data Sciences"
+description              : &description "PhD student of Computational and data Sciences"
 url                      : https://yirong-xu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://yirong-xu.github.io/"
@@ -85,10 +85,10 @@ author:
   bio              : " "
   location         : "St. Louis"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
